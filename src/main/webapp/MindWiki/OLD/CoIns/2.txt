@@ -1,2 +1,3 @@
-CollaborativeInnovationNetworks
-[CoIns2010|http://coins2010.com/]
+* EtymoLogia: ColLabor'ative InNov'ation NetWork's
+* HomePage: http://www.ickn.org/
+* MindOne: PeterGloor
